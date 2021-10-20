@@ -1,5 +1,12 @@
+# Requirements
+You need a *bash* shell and *python3*.
+
+## Get the code
+First get the code:
+
+    git clone https://github.com/LotophagoDSP/Hunton_project && cd Hunton_project
+
 ## How to run
-You need a bash shell and python3.
 Then just Run 
 
     bash setup.sh
